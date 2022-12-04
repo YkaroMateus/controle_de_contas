@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter: Run Controle de Contas",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
